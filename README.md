@@ -1,5 +1,5 @@
 # ExchangeApp
-This is a basic web application created using [Vue.js](https://vuejs.org/)
+This is a basic web application created using [Vue.js](https://vuejs.org/).
 
 ## Project setup
 ```
